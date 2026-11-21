@@ -1,0 +1,118 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>EclipseDark</title>
+  <link rel="stylesheet" href="ui-base.css">
+</head>
+<body>
+  <header class="app-header">
+    <div class="brand">
+      <img src="icons/icon48.png" alt="EclipseDark">
+      <div>
+        <div class="brand-title">EclipseDark</div>
+        <div class="brand-sub" id="siteHost">Loading active tab...</div>
+      </div>
+    </div>
+    <button class="tier-pill" id="tierPill">FREE</button>
+  </header>
+
+  <nav class="tabs">
+    <button class="tab-btn active" data-tab="controls">Controls</button>
+    <button class="tab-btn" data-tab="rules">Rules</button>
+    <button class="tab-btn" data-tab="pro">Pro</button>
+  </nav>
+
+  <main>
+    <section class="panel active" id="panel-controls">
+      <div class="card">
+        <div class="row">
+          <div>
+            <div style="font-weight:700;">Global Dark Mode</div>
+            <div class="muted">Preserves images, videos & media</div>
+          </div>
+          <label class="switch">
+            <input type="checkbox" id="enabledToggle">
+            <span class="slider"></span>
+          </label>
+        </div>
+        <div class="row" style="margin-top:10px;">
+          <button class="btn btn-sm" id="toggleSiteBtn" style="flex:1;">Exclude This Domain</button>
+          <button class="btn btn-sm" id="togglePathBtn" style="flex:1;">Exclude Exact Path</button>
+        </div>
+      </div>
+
+      <div class="card">
+        <div class="card-title">Theme Preset</div>
+        <div class="row">
+          <button class="btn btn-sm" data-preset="oled" style="flex:1;">OLED Pitch</button>
+          <button class="btn btn-sm" data-preset="slate" style="flex:1;">Slate Dark</button>
+          <button class="btn btn-sm" data-preset="warm" style="flex:1;">Warm Sepia</button>
+        </div>
+      </div>
+
+      <div class="card">
+        <div class="card-title">Smart Automation</div>
+        <div class="row">
+          <span>Sync with OS dark mode</span>
+          <label class="switch"><input type="checkbox" id="osSyncToggle"><span class="slider"></span></label>
+        </div>
+        <div class="row">
+          <span>Skip sites already dark</span>
+          <label class="switch"><input type="checkbox" id="smartSkipToggle"><span class="slider"></span></label>
+        </div>
+        <div class="row">
+          <span>Auto Schedule <span class="pro-tag">PRO</span></span>
+          <label class="switch"><input type="checkbox" id="scheduleToggle"><span class="slider"></span></label>
+        </div>
+        <div class="row" id="scheduleInputs" style="margin-top:6px;">
+          <input type="text" id="scheduleStart" value="20:00" placeholder="20:00">
+          <span class="muted">to</span>
+          <input type="text" id="scheduleEnd" value="07:00" placeholder="07:00">
+        </div>
+      </div>
+
+      <div class="card">
+        <div class="card-title">Perceptual Color Tuning <span class="pro-tag">PRO</span></div>
+        <div class="row"><span class="muted">Brightness</span><span id="brightnessVal">100%</span></div>
+        <input type="range" id="brightnessRange" min="70" max="125" value="100">
+        <div class="row"><span class="muted">Contrast</span><span id="contrastVal">96%</span></div>
+        <input type="range" id="contrastRange" min="75" max="125" value="96">
+        <div class="row"><span class="muted">Warmth / Sepia</span><span id="sepiaVal">6%</span></div>
+        <input type="range" id="sepiaRange" min="0" max="45" value="6">
+      </div>
+    </section>
+
+    <section class="panel" id="panel-rules">
+      <div class="card">
+        <div class="card-title">Add Domain, URL-Path, or Regex Rule</div>
+        <div style="display:flex;flex-direction:column;gap:7px;">
+          <input type="text" id="rulePattern" placeholder="e.g. youtube.com/watch or ^https://docs\.google\.com">
+          <div class="row">
+            <select id="ruleMode">
+              <option value="exclude">Exclude (Keep Light)</option>
+              <option value="include">Force Dark</option>
+            </select>
+            <label style="display:flex;align-items:center;gap:4px;white-space:nowrap;font-size:11px;">
+              <input type="checkbox" id="ruleRegex"> Regex <span class="pro-tag">PRO</span>
+            </label>
+          </div>
+          <button class="btn btn-primary btn-sm btn-block" id="addRuleBtn">Add Rule</button>
+        </div>
+      </div>
+      <div class="card">
+        <div class="row" style="margin-bottom:6px;">
+          <div class="card-title" style="margin:0;">Active Rules (<span id="ruleCount">0</span>)</div>
+          <button class="btn btn-sm" id="exportRulesBtn">Export JSON</button>
+        </div>
+        <div class="list" id="rulesList"></div>
+      </div>
+    </section>
+
+    <section class="panel" id="panel-pro"></section>
+  </main>
+
+  <div class="toast" id="toast"></div>
+  <script type="module" src="popup.js"></script>
+</body>
+</html>
