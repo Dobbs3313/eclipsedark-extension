@@ -101,7 +101,7 @@
 
     const css = `
       html[data-eclipsedark="on"] {
-        background-color: ${preset.bg} !important;
+        background-color: #ffffff !important;
         filter: invert(${preset.invert}) hue-rotate(180deg) brightness(${brightness.toFixed(2)}) contrast(${contrast.toFixed(2)}) sepia(${sepia.toFixed(2)}) !important;
         color-scheme: dark !important;
       }
