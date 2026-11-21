@@ -37,18 +37,29 @@
   }
 
   function pageHasNativeDark() {
+    const styleEl = document.getElementById(STYLE_ID);
+    const hadAttr = document.documentElement.getAttribute("data-eclipsedark") === "on";
     try {
-      const cs = getComputedStyle(document.documentElement);
-      const bg = cs.backgroundColor;
-      if (cs.colorScheme && cs.colorScheme.includes("dark")) {
-        const m = bg.match(/\d+/g);
+      if (styleEl) styleEl.disabled = true;
+      if (hadAttr) document.documentElement.removeAttribute("data-eclipsedark");
+      const targets = [document.documentElement, document.body].filter(Boolean);
+      for (const el of targets) {
+        const cs = getComputedStyle(el);
+        const bg = cs.backgroundColor;
+        const m = bg.match(/\d+(\.\d+)?/g);
         if (m && m.length >= 3) {
-          const lum = 0.2126 * Number(m[0]) + 0.7152 * Number(m[1]) + 0.0722 * Number(m[2]);
-          if (lum < 70 && !(m[3] !== undefined && Number(m[3]) === 0)) return true;
+          const alpha = m[3] !== undefined ? Number(m[3]) : 1;
+          if (alpha > 0.2) {
+            const lum = 0.2126 * Number(m[0]) + 0.7152 * Number(m[1]) + 0.0722 * Number(m[2]);
+            if (lum < 65) return true;
+          }
         }
       }
     } catch {
       // ignore early DOM errors
+    } finally {
+      if (styleEl) styleEl.disabled = false;
+      if (hadAttr) document.documentElement.setAttribute("data-eclipsedark", "on");
     }
     return false;
   }
