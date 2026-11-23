@@ -1,0 +1,14 @@
+{
+  "appName": {
+    "message": "EclipseDark — Akıllı Karanlık Mod",
+    "description": "Extension name shown in Chrome Web Store"
+  },
+  "appShortName": {
+    "message": "EclipseDark",
+    "description": "Short name of the extension"
+  },
+  "appDescription": {
+    "message": "Görselleri ve videoları koruyan akıllı karanlık mod; URL yolu kuralları, sistem senkronizasyonu ve siteye özel renk ayarı.",
+    "description": "Extension summary shown in Chrome Web Store"
+  }
+}

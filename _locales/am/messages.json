@@ -1,0 +1,14 @@
+{
+  "appName": {
+    "message": "EclipseDark — ብልጥ ጨለማ ሁነታ",
+    "description": "Extension name shown in Chrome Web Store"
+  },
+  "appShortName": {
+    "message": "EclipseDark",
+    "description": "Short name of the extension"
+  },
+  "appDescription": {
+    "message": "ምስሎችንና ቪዲዮን የሚጠብቅ ብልጥ ጨለማ ሁነታ፣ ከURL-መንገድ ደንቦች፣ የስርዓት ማመሳሰል እና የቀለም ማስተካከያ ጋር።",
+    "description": "Extension summary shown in Chrome Web Store"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "appName": {
+    "message": "EclipseDark — Tema Scuro Smart",
+    "description": "Extension name shown in Chrome Web Store"
+  },
+  "appShortName": {
+    "message": "EclipseDark",
+    "description": "Short name of the extension"
+  },
+  "appDescription": {
+    "message": "Modalità scura intelligente che preserva immagini e video, con regole per percorso URL, sync di sistema e filtri per sito.",
+    "description": "Extension summary shown in Chrome Web Store"
+  }
+}

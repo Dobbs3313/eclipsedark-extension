@@ -1,0 +1,14 @@
+{
+  "appName": {
+    "message": "EclipseDark — Okos Sötét Mód",
+    "description": "Extension name shown in Chrome Web Store"
+  },
+  "appShortName": {
+    "message": "EclipseDark",
+    "description": "Short name of the extension"
+  },
+  "appDescription": {
+    "message": "Képeket és videókat megőrző okos sötét mód, URL-útvonal szabályokkal, OS-szinkronizálással és oldalankénti színbeállítással.",
+    "description": "Extension summary shown in Chrome Web Store"
+  }
+}

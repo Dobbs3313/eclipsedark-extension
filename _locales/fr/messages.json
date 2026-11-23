@@ -1,0 +1,14 @@
+{
+  "appName": {
+    "message": "EclipseDark — Mode Sombre Intelligent",
+    "description": "Extension name shown in Chrome Web Store"
+  },
+  "appShortName": {
+    "message": "EclipseDark",
+    "description": "Short name of the extension"
+  },
+  "appDescription": {
+    "message": "Mode sombre préservant images et vidéos, avec règles par chemin d’URL, synchro système et réglages de couleur par site.",
+    "description": "Extension summary shown in Chrome Web Store"
+  }
+}

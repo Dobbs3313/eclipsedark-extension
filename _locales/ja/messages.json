@@ -1,0 +1,14 @@
+{
+  "appName": {
+    "message": "EclipseDark — スマートダークモード",
+    "description": "Extension name shown in Chrome Web Store"
+  },
+  "appShortName": {
+    "message": "EclipseDark",
+    "description": "Short name of the extension"
+  },
+  "appDescription": {
+    "message": "画像と動画を守りつつWebを暗色化する拡張機能。URLパス別ルール、OSテーマ同期、サイト毎の色調調整に対応。",
+    "description": "Extension summary shown in Chrome Web Store"
+  }
+}

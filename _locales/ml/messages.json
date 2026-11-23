@@ -1,0 +1,14 @@
+{
+  "appName": {
+    "message": "EclipseDark — സ്മാർട്ട് ഡാർക്ക് മോഡ്",
+    "description": "Extension name shown in Chrome Web Store"
+  },
+  "appShortName": {
+    "message": "EclipseDark",
+    "description": "Short name of the extension"
+  },
+  "appDescription": {
+    "message": "ചിത്രങ്ങളും വീഡിയോയും സംരക്ഷിക്കുന്ന സ്മാർട്ട് ഡാർക്ക് മോഡ്; URL-പാത്ത് നിയമങ്ങളും OS സിങ്കും സഹിതം.",
+    "description": "Extension summary shown in Chrome Web Store"
+  }
+}

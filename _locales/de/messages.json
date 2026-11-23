@@ -1,0 +1,14 @@
+{
+  "appName": {
+    "message": "EclipseDark — Smarter Dunkelmodus",
+    "description": "Extension name shown in Chrome Web Store"
+  },
+  "appShortName": {
+    "message": "EclipseDark",
+    "description": "Short name of the extension"
+  },
+  "appDescription": {
+    "message": "Smarter Dunkelmodus für Websites mit Schutz für Bilder & Videos, URL-Pfad-Regeln, OS-Synchronisation und Farbtuning.",
+    "description": "Extension summary shown in Chrome Web Store"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "appName": {
+    "message": "EclipseDark — ஸ்மார்ட் டார்க் பயன்முறை",
+    "description": "Extension name shown in Chrome Web Store"
+  },
+  "appShortName": {
+    "message": "EclipseDark",
+    "description": "Short name of the extension"
+  },
+  "appDescription": {
+    "message": "படங்கள், வீடியோவைப் பாதுகாக்கும் ஸ்மார்ட் டார்க் பயன்முறை; URL-பாதை விதிகள் மற்றும் OS ஒத்திசைவுடன்.",
+    "description": "Extension summary shown in Chrome Web Store"
+  }
+}

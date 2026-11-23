@@ -1,0 +1,14 @@
+{
+  "appName": {
+    "message": "EclipseDark — Išmanus Tamsusis Režimas",
+    "description": "Extension name shown in Chrome Web Store"
+  },
+  "appShortName": {
+    "message": "EclipseDark",
+    "description": "Short name of the extension"
+  },
+  "appDescription": {
+    "message": "Tamsusis režimas, išsaugantis vaizdus ir vaizdo įrašus, su URL kelio taisyklėmis, OS sinchronizavimu ir spalvų derinimu.",
+    "description": "Extension summary shown in Chrome Web Store"
+  }
+}

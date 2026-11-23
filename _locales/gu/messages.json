@@ -1,0 +1,14 @@
+{
+  "appName": {
+    "message": "EclipseDark — સ્માર્ટ ડાર્ક મોડ",
+    "description": "Extension name shown in Chrome Web Store"
+  },
+  "appShortName": {
+    "message": "EclipseDark",
+    "description": "Short name of the extension"
+  },
+  "appDescription": {
+    "message": "છબીઓ અને વિડિયો જાળવી રાખતો સ્માર્ટ ડાર્ક મોડ, URL-પાથ નિયમો, OS સિંક અને સાઇટ મુજબ રંગ નિયંત્રણ સાથે.",
+    "description": "Extension summary shown in Chrome Web Store"
+  }
+}

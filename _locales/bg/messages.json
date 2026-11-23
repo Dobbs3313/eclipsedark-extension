@@ -1,0 +1,14 @@
+{
+  "appName": {
+    "message": "EclipseDark — Умен тъмен режим",
+    "description": "Extension name shown in Chrome Web Store"
+  },
+  "appShortName": {
+    "message": "EclipseDark",
+    "description": "Short name of the extension"
+  },
+  "appDescription": {
+    "message": "Умен тъмен режим, запазващ снимки и видео, с правила по URL път, синхронизация с ОС и цветова настройка по сайт.",
+    "description": "Extension summary shown in Chrome Web Store"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "appName": {
+    "message": "EclipseDark — Inteligentny Ciemny Tryb",
+    "description": "Extension name shown in Chrome Web Store"
+  },
+  "appShortName": {
+    "message": "EclipseDark",
+    "description": "Short name of the extension"
+  },
+  "appDescription": {
+    "message": "Ciemny motyw chroniący obrazy i wideo, z regułami ścieżek URL, synchronizacją z systemem oraz regulacją kolorów.",
+    "description": "Extension summary shown in Chrome Web Store"
+  }
+}

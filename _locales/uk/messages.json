@@ -1,0 +1,14 @@
+{
+  "appName": {
+    "message": "EclipseDark — Розумна темна тема",
+    "description": "Extension name shown in Chrome Web Store"
+  },
+  "appShortName": {
+    "message": "EclipseDark",
+    "description": "Short name of the extension"
+  },
+  "appDescription": {
+    "message": "Розумний темний режим, що зберігає фото й відео, із правилами за URL-шляхами, синхронізацією з ОС і налаштуванням кольорів.",
+    "description": "Extension summary shown in Chrome Web Store"
+  }
+}

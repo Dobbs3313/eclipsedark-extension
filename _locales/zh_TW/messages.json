@@ -1,0 +1,14 @@
+{
+  "appName": {
+    "message": "EclipseDark — 智慧深色模式",
+    "description": "Extension name shown in Chrome Web Store"
+  },
+  "appShortName": {
+    "message": "EclipseDark",
+    "description": "Short name of the extension"
+  },
+  "appDescription": {
+    "message": "保護圖片與影片原色的智慧深色模式，支援 URL 路徑規則、系統深色同步與各網站色彩微調。",
+    "description": "Extension summary shown in Chrome Web Store"
+  }
+}

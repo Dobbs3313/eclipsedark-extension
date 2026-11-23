@@ -1,0 +1,14 @@
+{
+  "appName": {
+    "message": "EclipseDark — ಸ್ಮಾರ್ಟ್ ಡಾರ್ಕ್ ಮೋಡ್",
+    "description": "Extension name shown in Chrome Web Store"
+  },
+  "appShortName": {
+    "message": "EclipseDark",
+    "description": "Short name of the extension"
+  },
+  "appDescription": {
+    "message": "ಚಿತ್ರ ಮತ್ತು ವೀಡಿಯೊ ಉಳಿಸುವ ಸ್ಮಾರ್ಟ್ ಡಾರ್ಕ್ ಮೋಡ್, URL-ಪಥ ನಿಯಮಗಳು, OS ಸಿಂಕ್ ಮತ್ತು ಸೈಟ್ ಬಣ್ಣ ನಿಯಂತ್ರಣದೊಂದಿಗೆ.",
+    "description": "Extension summary shown in Chrome Web Store"
+  }
+}

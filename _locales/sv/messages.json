@@ -1,0 +1,14 @@
+{
+  "appName": {
+    "message": "EclipseDark — Smart Mörkt Läge",
+    "description": "Extension name shown in Chrome Web Store"
+  },
+  "appShortName": {
+    "message": "EclipseDark",
+    "description": "Short name of the extension"
+  },
+  "appDescription": {
+    "message": "Smart mörkt läge som bevarar bilder och video, med URL-sökvägsregler, OS-synkronisering och färgjustering per sajt.",
+    "description": "Extension summary shown in Chrome Web Store"
+  }
+}

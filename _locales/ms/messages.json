@@ -1,0 +1,14 @@
+{
+  "appName": {
+    "message": "EclipseDark — Mod Gelap Pintar",
+    "description": "Extension name shown in Chrome Web Store"
+  },
+  "appShortName": {
+    "message": "EclipseDark",
+    "description": "Short name of the extension"
+  },
+  "appDescription": {
+    "message": "Mod gelap pintar yang mengekalkan imej dan video, dengan peraturan laluan URL, penyegerakan OS dan pelaras warna laman.",
+    "description": "Extension summary shown in Chrome Web Store"
+  }
+}

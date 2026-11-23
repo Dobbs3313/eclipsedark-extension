@@ -1,0 +1,14 @@
+{
+  "appName": {
+    "message": "EclipseDark — Nutikas Tume Režiim",
+    "description": "Extension name shown in Chrome Web Store"
+  },
+  "appShortName": {
+    "message": "EclipseDark",
+    "description": "Short name of the extension"
+  },
+  "appDescription": {
+    "message": "Tume režiim, mis säilitab pildid ja videod, toetab URL-tee reegleid, OS-i sünkroonimist ja saidipõhist värvihäälestust.",
+    "description": "Extension summary shown in Chrome Web Store"
+  }
+}

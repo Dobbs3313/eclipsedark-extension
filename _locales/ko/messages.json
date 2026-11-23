@@ -1,0 +1,14 @@
+{
+  "appName": {
+    "message": "EclipseDark — 스마트 다크 모드",
+    "description": "Extension name shown in Chrome Web Store"
+  },
+  "appShortName": {
+    "message": "EclipseDark",
+    "description": "Short name of the extension"
+  },
+  "appDescription": {
+    "message": "이미지와 동영상은 그대로 유지하는 스마트 다크 모드. URL 경로 규칙, OS 테마 동기화, 사이트별 색상 조정을 지원합니다.",
+    "description": "Extension summary shown in Chrome Web Store"
+  }
+}

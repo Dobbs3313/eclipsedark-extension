@@ -1,0 +1,14 @@
+{
+  "appName": {
+    "message": "EclipseDark — Паметна тамна тема",
+    "description": "Extension name shown in Chrome Web Store"
+  },
+  "appShortName": {
+    "message": "EclipseDark",
+    "description": "Short name of the extension"
+  },
+  "appDescription": {
+    "message": "Паметни тамни режим који чува слике и видео, са правилима URL путања, синхронизацијом са ОС-ом и подешавањем боја.",
+    "description": "Extension summary shown in Chrome Web Store"
+  }
+}

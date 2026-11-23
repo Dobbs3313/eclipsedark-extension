@@ -1,0 +1,14 @@
+{
+  "appName": {
+    "message": "EclipseDark — स्मार्ट डार्क मोड",
+    "description": "Extension name shown in Chrome Web Store"
+  },
+  "appShortName": {
+    "message": "EclipseDark",
+    "description": "Short name of the extension"
+  },
+  "appDescription": {
+    "message": "फोटो आणि व्हिडिओ जपणारा स्मार्ट डार्क मोड, URL-पाथ नियम, OS सिंक आणि प्रत्येक साइटसाठी रंग नियंत्रणासह.",
+    "description": "Extension summary shown in Chrome Web Store"
+  }
+}

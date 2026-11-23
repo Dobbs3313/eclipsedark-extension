@@ -1,0 +1,14 @@
+{
+  "appName": {
+    "message": "EclipseDark — Älykäs Tumma Tila",
+    "description": "Extension name shown in Chrome Web Store"
+  },
+  "appShortName": {
+    "message": "EclipseDark",
+    "description": "Short name of the extension"
+  },
+  "appDescription": {
+    "message": "Älykäs tumma tila, joka säilyttää kuvat ja videot, sisältää URL-polkusäännöt, OS-synkronoinnin ja sivustokohtaiset värit.",
+    "description": "Extension summary shown in Chrome Web Store"
+  }
+}

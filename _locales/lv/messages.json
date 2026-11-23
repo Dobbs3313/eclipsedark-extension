@@ -1,0 +1,14 @@
+{
+  "appName": {
+    "message": "EclipseDark — Gudrais Tumšais Režīms",
+    "description": "Extension name shown in Chrome Web Store"
+  },
+  "appShortName": {
+    "message": "EclipseDark",
+    "description": "Short name of the extension"
+  },
+  "appDescription": {
+    "message": "Tumšais režīms, kas saglabā attēlus un video, ar URL ceļa noteikumiem, OS sinhronizāciju un krāsu pielāgošanu vietnēm.",
+    "description": "Extension summary shown in Chrome Web Store"
+  }
+}

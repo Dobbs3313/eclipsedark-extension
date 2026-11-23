@@ -1,0 +1,14 @@
+{
+  "appName": {
+    "message": "EclipseDark — Hali ya Giza Mahiri",
+    "description": "Extension name shown in Chrome Web Store"
+  },
+  "appShortName": {
+    "message": "EclipseDark",
+    "description": "Short name of the extension"
+  },
+  "appDescription": {
+    "message": "Hali ya giza inayohifadhi picha na video, ikiwa na kanuni za njia ya URL, usawazishaji wa OS na marekebisho ya rangi.",
+    "description": "Extension summary shown in Chrome Web Store"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "appName": {
+    "message": "EclipseDark — Mode Fosc Intel·ligent",
+    "description": "Extension name shown in Chrome Web Store"
+  },
+  "appShortName": {
+    "message": "EclipseDark",
+    "description": "Short name of the extension"
+  },
+  "appDescription": {
+    "message": "Mode fosc intel·ligent que preserva imatges i vídeos, amb regles de ruta URL, sincronització del sistema i ajustos per lloc.",
+    "description": "Extension summary shown in Chrome Web Store"
+  }
+}

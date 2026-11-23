@@ -1,0 +1,14 @@
+{
+  "appName": {
+    "message": "EclipseDark — Smart Dark Mode",
+    "description": "Extension name shown in Chrome Web Store"
+  },
+  "appShortName": {
+    "message": "EclipseDark",
+    "description": "Short name of the extension"
+  },
+  "appDescription": {
+    "message": "Smart perceptual dark mode preserving images and video, with URL-path rules, OS dark-mode sync, and per-site color tuning.",
+    "description": "Extension summary shown in Chrome Web Store"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "appName": {
+    "message": "EclipseDark — স্মার্ট ডার্ক মোড",
+    "description": "Extension name shown in Chrome Web Store"
+  },
+  "appShortName": {
+    "message": "EclipseDark",
+    "description": "Short name of the extension"
+  },
+  "appDescription": {
+    "message": "ছবি ও ভিডিও অক্ষুণ্ণ রেখে স্মার্ট ডার্ক মোড, URL-পাথ নিয়ম, OS সিঙ্ক এবং সাইটভিত্তিক রঙ সমন্বয়সহ।",
+    "description": "Extension summary shown in Chrome Web Store"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "appName": {
+    "message": "EclipseDark — Pametni Temni Način",
+    "description": "Extension name shown in Chrome Web Store"
+  },
+  "appShortName": {
+    "message": "EclipseDark",
+    "description": "Short name of the extension"
+  },
+  "appDescription": {
+    "message": "Pametni temni način, ki ohrani slike in videe, s pravili poti URL, sinhronizacijo z OS in nastavitvijo barv za spletna mesta.",
+    "description": "Extension summary shown in Chrome Web Store"
+  }
+}

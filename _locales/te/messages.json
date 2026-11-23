@@ -1,0 +1,14 @@
+{
+  "appName": {
+    "message": "EclipseDark — స్మార్ట్ డార్క్ మోడ్",
+    "description": "Extension name shown in Chrome Web Store"
+  },
+  "appShortName": {
+    "message": "EclipseDark",
+    "description": "Short name of the extension"
+  },
+  "appDescription": {
+    "message": "చిత్రాలు మరియు వీడియోలను కాపాడే స్మార్ట్ డార్క్ మోడ్, URL-పాత్ నియమాలు మరియు OS సింక్‌తో.",
+    "description": "Extension summary shown in Chrome Web Store"
+  }
+}

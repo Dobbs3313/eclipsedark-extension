@@ -1,0 +1,14 @@
+{
+  "appName": {
+    "message": "EclipseDark — Chế Độ Tối Thông Minh",
+    "description": "Extension name shown in Chrome Web Store"
+  },
+  "appShortName": {
+    "message": "EclipseDark",
+    "description": "Short name of the extension"
+  },
+  "appDescription": {
+    "message": "Chế độ tối thông minh giữ nguyên ảnh và video, hỗ trợ quy tắc đường dẫn URL, đồng bộ hệ điều hành và chỉnh màu theo trang.",
+    "description": "Extension summary shown in Chrome Web Store"
+  }
+}

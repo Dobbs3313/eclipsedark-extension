@@ -1,0 +1,14 @@
+{
+  "appName": {
+    "message": "EclipseDark — حالت تاریک هوشمند",
+    "description": "Extension name shown in Chrome Web Store"
+  },
+  "appShortName": {
+    "message": "EclipseDark",
+    "description": "Short name of the extension"
+  },
+  "appDescription": {
+    "message": "حالت تاریک هوشمند با حفظ تصاویر و ویدیوها، قوانین مسیر URL، همگام‌سازی با سیستم‌عامل و تنظیم رنگ هر سایت.",
+    "description": "Extension summary shown in Chrome Web Store"
+  }
+}

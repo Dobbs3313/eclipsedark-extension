@@ -4,6 +4,10 @@
 
 A fast, privacy-first Chrome Manifest V3 extension built by **ARIS PARTY LLC** to outperform **Dark Mode** (`dmghijelimhndkbmpgbldicpogfkceaj`, 2M+ users, 3.6★).
 
+- **Product Page:** https://arisparty.org/extensions/eclipsedark
+- **Privacy Policy:** https://arisparty.org/extensions/eclipsedark/privacy
+- **Support & Setup:** https://arisparty.org/extensions/eclipsedark/support (`support@arisparty.org`)
+
 ## Competitive Advantages
 - Replaces Dark Mode (2M users, 3.6★) with a true popup control panel instead of an opaque toggle
 - Solves YouTube & media inversion bugs by exempting video, img, picture, and iframe media surfaces
@@ -41,4 +45,4 @@ A fast, privacy-first Chrome Manifest V3 extension built by **ARIS PARTY LLC** t
 ```bash
 node tests/verify.mjs .
 ```
-Outputs a store-ready archive at `dist/eclipsedark-extension-v1.0.0.zip`.
+Outputs a store-ready archive with 56 `_locales` at `dist/eclipsedark-extension-v1.0.0.zip`.

@@ -3,8 +3,11 @@
 - **Title:** EclipseDark — Smart Perceptual Dark Mode with
 - **Category:** Make Chrome Yours -> Functionality & UI
 - **Version:** 1.0.0
+- **Locales:** 56 Chrome Web Store languages (`_locales/`)
 - **Pricing:** Free with optional Stripe Pro upgrade ($2.99/mo · $19.99/yr · $29.99 Lifetime)
-- **Privacy Policy URL:** `https://github.com/Dobbs3313/eclipsedark-extension/blob/main/store-assets/PRIVACY_POLICY.md`
+- **Homepage URL:** `https://arisparty.org/extensions/eclipsedark`
+- **Support URL:** `https://arisparty.org/extensions/eclipsedark/support`
+- **Privacy Policy URL:** `https://arisparty.org/extensions/eclipsedark/privacy`
 
 ## Short Description (<= 132 chars)
 Smart Perceptual Dark Mode with URL-Path Rules & OS Sync. Fast, privacy-first Manifest V3 utility with zero ads or telemetry.
@@ -24,6 +27,11 @@ Smart Perceptual Dark Mode with URL-Path Rules & OS Sync. Fast, privacy-first Ma
 - Per-site brightness, contrast, sepia & blue-light filter sliders
 - Custom automatic sunrise/sunset schedule
 - Custom CSS overrides per site & JSON profile import/export
+
+### Privacy & Support
+- Product & docs: https://arisparty.org/extensions/eclipsedark
+- Privacy policy: https://arisparty.org/extensions/eclipsedark/privacy
+- Support & setup: https://arisparty.org/extensions/eclipsedark/support (support@arisparty.org)
 
 ### Stripe Live Checkout Links
 - Monthly ($2.99/mo): https://buy.stripe.com/3cI6oH8Zx6xPfGD1Ymg3601

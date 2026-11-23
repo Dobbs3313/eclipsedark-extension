@@ -1,0 +1,14 @@
+{
+  "appName": {
+    "message": "EclipseDark — โหมดมืดอัจฉริยะ",
+    "description": "Extension name shown in Chrome Web Store"
+  },
+  "appShortName": {
+    "message": "EclipseDark",
+    "description": "Short name of the extension"
+  },
+  "appDescription": {
+    "message": "โหมดมืดอัจฉริยะที่คงสีภาพและวิดีโอ พร้อมกฎตามพาธ URL ซิงค์กับระบบ และปรับสีเฉพาะเว็บ",
+    "description": "Extension summary shown in Chrome Web Store"
+  }
+}

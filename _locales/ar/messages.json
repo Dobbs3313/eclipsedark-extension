@@ -1,0 +1,14 @@
+{
+  "appName": {
+    "message": "EclipseDark — وضع داكن ذكي",
+    "description": "Extension name shown in Chrome Web Store"
+  },
+  "appShortName": {
+    "message": "EclipseDark",
+    "description": "Short name of the extension"
+  },
+  "appDescription": {
+    "message": "وضع داكن ذكي يحافظ على الصور والفيديو، مع قواعد مسار URL ومزامنة مع النظام وتخصيص الألوان لكل موقع.",
+    "description": "Extension summary shown in Chrome Web Store"
+  }
+}

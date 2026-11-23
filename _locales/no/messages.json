@@ -1,0 +1,14 @@
+{
+  "appName": {
+    "message": "EclipseDark — Smart Mørk Modus",
+    "description": "Extension name shown in Chrome Web Store"
+  },
+  "appShortName": {
+    "message": "EclipseDark",
+    "description": "Short name of the extension"
+  },
+  "appDescription": {
+    "message": "Smart mørk modus som bevarer bilder og video, med URL-baneregler, OS-synkronisering og fargejustering per nettsted.",
+    "description": "Extension summary shown in Chrome Web Store"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "appName": {
+    "message": "EclipseDark — Έξυπνη Σκοτεινή Λειτουργία",
+    "description": "Extension name shown in Chrome Web Store"
+  },
+  "appShortName": {
+    "message": "EclipseDark",
+    "description": "Short name of the extension"
+  },
+  "appDescription": {
+    "message": "Έξυπνη σκοτεινή λειτουργία που προστατεύει εικόνες & βίντεο, με κανόνες URL, συγχρονισμό συστήματος και ρύθμιση χρώματος.",
+    "description": "Extension summary shown in Chrome Web Store"
+  }
+}

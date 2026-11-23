@@ -1,0 +1,14 @@
+{
+  "appName": {
+    "message": "EclipseDark — Mod Întunecat Inteligent",
+    "description": "Extension name shown in Chrome Web Store"
+  },
+  "appShortName": {
+    "message": "EclipseDark",
+    "description": "Short name of the extension"
+  },
+  "appDescription": {
+    "message": "Mod întunecat care păstrează imaginile și videoclipurile, cu reguli pe cale URL, sincronizare OS și reglaj cromatic per site.",
+    "description": "Extension summary shown in Chrome Web Store"
+  }
+}

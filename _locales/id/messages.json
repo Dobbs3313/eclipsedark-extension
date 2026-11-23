@@ -1,0 +1,14 @@
+{
+  "appName": {
+    "message": "EclipseDark — Mode Gelap Cerdas",
+    "description": "Extension name shown in Chrome Web Store"
+  },
+  "appShortName": {
+    "message": "EclipseDark",
+    "description": "Short name of the extension"
+  },
+  "appDescription": {
+    "message": "Mode gelap cerdas yang menjaga gambar dan video tetap asli, dengan aturan jalur URL, sinkronisasi OS, dan penyetel warna.",
+    "description": "Extension summary shown in Chrome Web Store"
+  }
+}

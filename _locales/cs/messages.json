@@ -1,0 +1,14 @@
+{
+  "appName": {
+    "message": "EclipseDark — Chytrý tmavý režim",
+    "description": "Extension name shown in Chrome Web Store"
+  },
+  "appShortName": {
+    "message": "EclipseDark",
+    "description": "Short name of the extension"
+  },
+  "appDescription": {
+    "message": "Chytrý tmavý režim zachovávající obrázky a videa, s pravidly pro cesty URL, synchronizací s OS a laděním barev.",
+    "description": "Extension summary shown in Chrome Web Store"
+  }
+}

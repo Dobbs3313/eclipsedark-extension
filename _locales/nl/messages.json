@@ -1,0 +1,14 @@
+{
+  "appName": {
+    "message": "EclipseDark — Slimme Donkere Modus",
+    "description": "Extension name shown in Chrome Web Store"
+  },
+  "appShortName": {
+    "message": "EclipseDark",
+    "description": "Short name of the extension"
+  },
+  "appDescription": {
+    "message": "Slimme donkere modus die afbeeldingen en video behoudt, met URL-padregels, OS-synchronisatie en kleurregeling per site.",
+    "description": "Extension summary shown in Chrome Web Store"
+  }
+}
